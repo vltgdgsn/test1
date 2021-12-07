@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
    <p>niftydoo</p>
+   <img src="1.jpg">
       </main>
 
       <Footer />
